@@ -9,7 +9,7 @@ You are always welcomed to ask for a quote at info@datatang.com
 
 ------
 
-You can visit our website : 
+You can visit our website for more info: 
 | Scope | Url | 
 |---|----|
 | International | https://www.datatang.ai |
