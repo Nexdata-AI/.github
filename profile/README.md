@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-<!--
+## Datatang is a Data Service Provider for AI industry, We provides off-the-shelf annotated text, image, audio, video, point cloud datasets for AI, and data collection & annotation services since 2011, powering the world's most innovative Artificial Intelligence.
 
-**Here are some ideas to get you started:**
+## We are aimming to help AI with better and quality data with affortable price. other than opensourced data, we provide much better data in quality and services.
 
-Datatang is a 
+You can visit our website : 
+| Scope | Url | 
+|---|----|
+| International | https://www.datatang.ai |
+| Chinese | https://www.datatang.com | 
+| Japan | https://www.datatang.co.jp/ | 
 
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
