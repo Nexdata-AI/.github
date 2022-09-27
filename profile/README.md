@@ -4,7 +4,9 @@
 
 ------
 
-## We are aimming to help AI with better and quality data with affortable price. you are welcome to ask for quote: info@datatang.ai
+## We are striving to help AI developers with quality data at an affordable price.
+You are welcome to ask for a quote at info@datatang.ai.
+
 ------
 
 You can visit our website : 
