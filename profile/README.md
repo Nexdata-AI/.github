@@ -13,6 +13,6 @@ You are always welcomed to ask for a quote or samples at info@datatang.com
 You can visit our website for more info: 
 | Scope | Url | 
 |---|----|
-| International | https://www.datatang.ai |
-| Chinese | https://www.datatang.com | 
+| International | [https://www.datatang.ai](https://bit.ly/3eLFl3l) |
+| Chinese | [https://www.datatang.com](https://bit.ly/3SlSlKv) | 
 
