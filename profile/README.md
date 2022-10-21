@@ -15,5 +15,4 @@ You can visit our website for more info:
 |---|----|
 | International | https://www.datatang.ai |
 | Chinese | https://www.datatang.com | 
-| Japan | https://www.datatang.co.jp| 
 
