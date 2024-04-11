@@ -6,8 +6,6 @@
 
 ## We are striving to help AI developers with [quality data](https://www.nexdata.ai/?source=Github) at an affordable price. To ensure the quality and security of our data, we have been certified for ISO/IEC 27001,27701 Information security management and ISO 9001 quality management.
 
-You are always welcomed to ask for a quote or samples at info@nexdata.ai
-
 ------
 
 You can visit our website for more info: 
